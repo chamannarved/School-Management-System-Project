@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>School Management System - Tutor Joe's</title>
+		<title>School Management System - Chaman Narved</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body class="back">
