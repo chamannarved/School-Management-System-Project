@@ -6,13 +6,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>School Management System</title>
+		<title>School Management System - Chaman Narved</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body class="back">
 		<?php include"navbar.php";?>
 		<img src="img/b1.jpg" width="800">
-		
+
 		<div class="login">
 			<h1 class="heading">Admin Login</h1>
 			<div class="log">
@@ -32,15 +32,15 @@
 					{
 						echo "<div class='error'>Invalid Username or Password</div>";
 					}
-					
+
 				}
 				if(isset($_GET["mes"]))
 				{
 					echo "<div class='error'>{$_GET["mes"]}</div>";
 				}
-				
+
 			?>
-		
+
 				<form method="post" action="<?php echo $_SERVER["PHP_SELF"];?>">
 					<label>User Name</label><br>
 					<input type="text" name="aname" required class="input"><br><br>
@@ -59,14 +59,14 @@
 			$(".error").fadeTo(1000, 100).slideUp(1000, function(){
 					$(".error").slideUp(1000);
 			});
-			
+
 			$(".success").fadeTo(1000, 100).slideUp(1000, function(){
 					$(".success").slideUp(1000);
 			});
 		});
 	</script>
-		
-	
-		
+
+
+
 	</body>
 </html>
