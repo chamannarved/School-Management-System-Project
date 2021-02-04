@@ -8,7 +8,7 @@
 				<li class="p-2"><a href="#">Home</a></li>
 				<li class="p-2"><a href="#">About</a></li>
 				<li class="p-2"><a href="#">Contect</a></li>
-				<li class="p-2"><a href="#">Login</a></li>
+				<li class="p-2"><a href="login.php">Login</a></li>
 				<li class="p-2"><a href="#">Sign up</a></li>
 			</ul>
 		</div>
