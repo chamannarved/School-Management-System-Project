@@ -1,5 +1,5 @@
 <div class="footer" style="margin-top:20px;">
-			<footer><p>Copyright &copy; Chaman Narved </p></footer>
+			<footer><p>Copyright &copy; Project 2023 </p></footer>
 </div>
 		<script src="js/jquery.js"></script>
 		 <script>
