@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Tutor Joe's</title>
+		<title>Project</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 	<body>
@@ -27,7 +27,7 @@
 		</div>
 		
 <div class="footer">
-			<footer><p>Copyright &copy; Tutor Joe's </p></footer>
+			<footer><p>Copyright &copy; Project </p></footer>
 </div>
 		<script src="js/jquery.js"></script>
 		 <script>
